@@ -21,3 +21,19 @@ export const ContactsTitle = styled.h2`
   font-weight: 500;
   margin: 20px 20px;
 `;
+export const ButtonStyled = styled.button`
+  color: gray;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid;
+  cursor: pointer;
+  background: transparent;
+  margin: 20px 0 0 110px;
+
+  &:focus,
+  &:hover {
+    border: 1px solid blue;
+    background: dodgerblue;
+    color: black;
+  }
+`;
