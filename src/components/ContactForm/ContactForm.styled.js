@@ -5,7 +5,7 @@ export const FormStyle = styled.form`
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  gap: 20px;
+  gap: 10px;
 `;
 export const LabelStyled = styled.label`
   display: inline-grid;

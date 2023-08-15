@@ -19,7 +19,7 @@ export const InputStyled = styled.input`
   border: 1px solid;
   border-radius: 5px;
   padding: 5px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
   &:focus,
   &:hover,
   &:active {
